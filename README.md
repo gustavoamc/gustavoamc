@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavoamc
-- 👀 I’m interested in PHP, Laravel, GameDev and JS.
-- 🌱 I’m currently learning PHP/Laravel
+- 👀 I’m interested in C#, Flutter/Dart, PHP, Laravel, GameDev and JS.
+- 🌱 I’m currently learning C# (REST API using EFCore), Flutter/Dart (Consume APIs i made)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gustavo.alexandremc@gmail.com
 
